@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     //My firts change
     //Otro cambio en el código
+    //Cambio agregado por desarrollo en VS Code
     public class CartItem
     {
         [Key]
