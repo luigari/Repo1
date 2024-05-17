@@ -1,14 +1,14 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
+//Cambio 1
 using System;
 using System.ComponentModel.DataAnnotations;
-
+//Segundo cambio
 namespace PartsUnlimited.Models
 {
     //My firts change
     //Otro cambio en el código
-    //Cambio sobre release
+    //Cambio agregado por desarrollo en VS Code
     public class CartItem
     {
         [Key]
